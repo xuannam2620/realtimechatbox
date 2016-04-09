@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#old-message{
+    padding-bottom: 15px;
+}
+#message{
+    width: 100%;
+}
+.padding-l-10{
+    padding-left: 10px;
+}
+.old-messages{
+    padding-bottom: 20px;
+    height: 500px;
+    overflow-y: scroll;
+}
+.margin-l-5{
+    margin-left: 5px;
+}
+.h55{
+    height: 55px;
+}
